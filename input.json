@@ -1,0 +1,18 @@
+[
+    {
+    "name": "ConfigController::actionSaveConfig",
+    "desc": "Сохранение файла конфигурации"
+  },
+  {
+    "name": "ConfigController::actionSaveLastProject",
+    "desc": "Сохранение идентификатора последнего выгруженного проекта"
+  },
+  {
+    "name": "ConfigController::actionSaveLastProject",
+    "desc": "Сохранение идентификатора последнего выгруженного проекта ()"
+  },
+  {
+    "name": "Spaceless::run",
+    "desc": "Marks the end of content to be cleaned from whitespace characters between HTML tags. Stops capturing an output and echoes cleaned result."
+  }
+]

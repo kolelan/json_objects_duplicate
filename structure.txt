@@ -1,0 +1,15 @@
+project/
+├── config/
+│   └── settings.py
+├── core/
+│   ├── __init__.py
+│   ├── processor.py
+│   ├── validator.py
+│   └── reporter.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_processor.py
+│   ├── test_validator.py
+│   └── test_reporter.py
+├── main.py
+└── requirements.txt
